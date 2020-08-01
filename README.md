@@ -10,7 +10,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
   <a href="https://github.com/shikharx06">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 </div>
 
