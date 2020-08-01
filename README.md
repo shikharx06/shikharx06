@@ -1,11 +1,9 @@
 ### Hi there 👋,
 ---
-<div>
+
 - 🌱 I’m currently learning REACT JS and diving deep into FLUTTER advance
 - 📫 you can reach me on [linkedin](https://www.linkedin.com/in/shikharx06) or [mail](shikharswat64@gmail.com). 
-</div>
 
----
 
 <div>
   <a href="https://github.com/shikharx06">
