@@ -1,6 +1,11 @@
 ### Hi there 👋,
 
-![Shikhar's github stats](https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&theme=radical)
+a href="https://github.com/shikharx06">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/shikharx06">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharx06" />
+</a>
 <!--
 **shikharx06/shikharx06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
