@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-![Shikhar's github stats](https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true)
+![Shikhar's github stats](https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&theme=radical)
 <!--
 **shikharx06/shikharx06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
