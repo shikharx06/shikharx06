@@ -1,5 +1,8 @@
-### Hi there 👋,
----
+<p align="center">
+  <h2>Hi there 👋,</h2>
+  <br>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=200 align="center"></img>
+</p>
 
 - 🌱 I’m currently learning REACT JS and diving deep into FLUTTER advance
 - 📫 you can reach me on [linkedin](https://www.linkedin.com/in/shikharx06) or [mail](shikharswat64@gmail.com). 
