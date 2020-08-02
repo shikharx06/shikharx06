@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=200 align="center"></img>
 </p>
 
+
 - 🌱 I’m currently learning REACT JS and diving deep into FLUTTER advance
 
 ## 📫 get in touch: 
 
-### :point_right: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-shikharswat64@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shikharswat64@gmail.com) 
-
-### :point_right: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tanishqporwar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shikharx06)
+### :point_right: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shikharswat64@gmail.com) 
+### :point_right: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shikharx06)
 
 <div align="center">
   <a href="https://github.com/shikharx06">
