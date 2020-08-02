@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=200 align="center"></img>
 </p>
 
-
+<br>
 🌱 &nbsp; Developer &nbsp; | &nbsp; DL enthusiast &nbsp; | &nbsp; Engineer &nbsp; | &nbsp; Student <br>
 🌱 &nbsp;  I’m currently learning REACT JS and diving deep into FLUTTER advance
+
+--- 
 
 ### 📫 get in touch: 
 
