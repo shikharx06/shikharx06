@@ -1,17 +1,17 @@
 <img src="https://github.com/shikharx06/shikharx06/blob/master/mygif.gif" align="center" alt="my profile">
 <div align="center">
    
-**📫 Reach me at:**<br>
+**📫 Reach me at:**<br><br>
 
    <a href="mailto:shikharswat64@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="shikharx06" height="30" width="30" /> &nbsp; </a>
    <a href="https://linkedin.com/in/shikharx06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shikharx06" height="30" width="30"/> &nbsp; </a>
    <a href="https://github.com/shikharx06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shikharx06" height="30" width="30" /> &nbsp; </a>
 
 </div>
-
+<br><br>
 <div align="center">
    
-**My tech stack:**<br>
+**My tech stack:**<br><br>
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
    <img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="bootstrap" width="40" height="40"/>
