@@ -1,7 +1,9 @@
 <img src="https://github.com/shikharx06/shikharx06/blob/master/mygif.gif" align="center" alt="my profile">
 <div align="center">
-   
-**📫 Reach me at:**<br><br>
+
+---
+
+**📫 Reach me at:**<br>
 
    <a href="mailto:shikharswat64@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="shikharx06" height="30" width="30" /> &nbsp; </a>
    <a href="https://linkedin.com/in/shikharx06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shikharx06" height="30" width="30"/> &nbsp; </a>
@@ -11,7 +13,7 @@
 <br><br>
 <div align="center">
    
-**My tech stack:**<br><br>
+**My tech stack:**<br>
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
    <img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -25,4 +27,13 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>    
 </div>
-
+<br>
+<div align="center">
+  <a href="https://github.com/shikharx06">
+    <img src="https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=2ef082&text_color=9f9f9f&bg_color=151515" />
+  </a>
+  <br>
+  <a href="https://github.com/shikharx06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</div>
