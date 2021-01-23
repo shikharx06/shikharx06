@@ -10,7 +10,9 @@
 <div align="center">
    
 <br>
-![] (https://komarev.com/ghpvc/?username=shikharx06&style=flat-square)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shikharx06&style=flat-square" alt="shikhar singh" />
+</p>
 
 **Tools and languages I use:**<br>
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
