@@ -10,7 +10,7 @@
 <div align="center">
    
 <br>
-![](https://komarev.com/ghpvc/?username=shikharx06&style=flat-square)
+![] (https://komarev.com/ghpvc/?username=shikharx06&style=flat-square)
 
 **Tools and languages I use:**<br>
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
