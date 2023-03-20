@@ -22,7 +22,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/shikharx06">
-    <img src="https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=2ef082&text_color=9f9f9f&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shikharx06&show_icons=true&count_private=true&title_color=fff&icon_color=2ef082&text_color=9f9f9f&bg_color=151515&PAT_1" />
   </a>
   <br>
 
